@@ -1,5 +1,5 @@
 {
-    "name": "ajaypande1/laravel-auditing-filesystem",
+    "name": "ajaypande1/filesystem-dev",
     "description": "A filesystem driver for the owen-it/laravel-auditing package. Allows storage of the audits in CSV files, across all registered Laravel disks.",
     "keywords": [
         "accountability",
